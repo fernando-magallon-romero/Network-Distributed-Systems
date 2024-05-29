@@ -1,6 +1,5 @@
 # UDP Server
 # Author: Fernando Magallon-Romero
-# RED ID: 825276901
 # CS 576 Spring 2024
 
 import socket
